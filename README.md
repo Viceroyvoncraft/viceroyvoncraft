@@ -33,5 +33,7 @@
 - Still looking for the secret cheat code to learn faster 👀  
 
 ---
-
+## 🎮 Codewars Stats
+![CodeWars](https://www.codewars.com/users/vicento/badges/large)
+---
 ✨ Thanks for stopping by! Feel free to follow my journey or drop me a quest.  
